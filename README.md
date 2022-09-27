@@ -1,7 +1,7 @@
 # Data Descriptor: Waiting Time in Transaction Fee Mechanism
 
 ## Summary
-Waiting time (Section 5.3): Folder blockdata/ contains waiting time data in blockdata.npy and waitingtime_csv.csv.
+Waiting time: Folder blockdata/ contains waiting time data in blockdata.npy and waitingtime_csv.csv.
 
 ## Reproducing data & graphs
 ### Raw mempool data
